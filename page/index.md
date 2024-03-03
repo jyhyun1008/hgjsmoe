@@ -1,7 +1,6 @@
-> 이치고아메
+> 여고생으로 전직한 공자의 제자들이 동아리에서 밴드를 해 보았습니다
 
-![main.jpg](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKwlV2phrYKT7R8pMmkB5__AGTcxavNMVjgXiYsdcnvTm8VsAr81zR5pES6Vipt7KPRnE&usqp=CAU)
+![main.jpg](https://peachtart2.s3.ap-northeast-1.amazonaws.com/tart/webpublic-117bcea3-f741-4461-967c-7fbf545b5c66.png)
 
 # 소개
 
-코바늘로 구체관절인형을 만들어요.
