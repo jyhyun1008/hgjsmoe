@@ -1,8 +1,8 @@
 # ENJOY!
+## MEDIA
 * We Will Rock You!!
 * [논어 위키](https://rongo.moe)
-
-# LINKS
+## YEOHANGDANG
 : 현가지성 관련 활동 내용이 함께 올라옵니다.
 * [패트리온](https://www.patreon.com/user?u=82062341)
 * 유튜브 [@yeohangdang](https://www.youtube.com/@yeohangdang)
